@@ -5,7 +5,7 @@ packages/
 Properties/
 bin/
 obj/
-
+packages.config/
 =======
 Program.cs/
 App.config/
