@@ -17,7 +17,6 @@
     The project is to read a CSV file, do some aggregation/filtering/grouping functions and print out the results in table format using csharp. source data is the company registration data for any state, from data.gov.in, the Government of India's open data platform.
 
 2. ### **Built With**
-jiiiiiiiiiiiiiiiiiiiiiii
  * Csharp
 
     C# is a general-purpose, multi-paradigm programming language encompassing static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines.
@@ -60,5 +59,4 @@ jiiiiiiiiiiiiiiiiiiiiiii
     [Console Tables](https://www.nuget.org/packages/ConsoleTables/)
 
     [C# Corner](https://www.c-sharpcorner.com/article/how-to-read-data-from-csv-file-in-c-sharp/)
-# Dataproject_mountbluefinal
-# Dataproject_mountbluefinal
+
