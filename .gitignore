@@ -5,10 +5,12 @@ packages/
 Properties/
 bin/
 obj/
+
 =======
 Program.cs/
 App.config/
 packages/
 bin/
 obj/
+.vs/
 >>>>>>> f1df55368c0e55c1262c6aca918277fa49d60f14
